@@ -1,0 +1,17 @@
+// 
+// name: name
+// filename: file's name
+// importp: source platform
+// author: author
+// importurl: source url
+//
+
+{
+  "lsopen": {
+    "name": "Opening Bell",
+    "filename": "b_opening.mp3",
+    "importp": "Pixabay",
+    "author": "u_7xr5ffk4oq",
+    "importurl": "https://cdn.pixabay.com/download/audio/2025/10/16/audio_becf266b23.mp3?filename=u_7xr5ffk4oq-opening-bell-421471.mp3"
+  }
+}
