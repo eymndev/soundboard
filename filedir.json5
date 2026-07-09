@@ -1,0 +1,14 @@
+{
+  "ls": {
+    "catname": "Light Saber",
+    "folderdir": "/sound/lightsaber",
+    "folderjson": "/sound/lightsaber/ls_filedir.json5"
+    "scode": "ls"
+  },
+  "b": {
+    "catname": "Bell",
+    "folderdir": "/sound/bell",
+    "folderjson": "/sound/bell/b_filedir.json5"
+    "scode": "b"
+  }
+}
