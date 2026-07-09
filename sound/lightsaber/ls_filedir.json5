@@ -1,0 +1,18 @@
+// 
+// name: name
+// filename: file's name
+// importp: source platform
+// author: author
+// importurl: source url
+//
+
+{
+  "lsopen": {
+    "name": "Lightsaber Opening",
+    "filename": "ls_opening.mp3",
+    "importp": "Pixabay",
+    "author": "freesound_community",
+    "importurl": "https://cdn.pixabay.com/download/audio/2022/03/17/audio_39966321ca.mp3?filename=freesound_community-swing3-94210.mp3"
+  }
+}
+  
